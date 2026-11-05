@@ -83,7 +83,7 @@ Il est devenu un vrai bouton, qui indique s'il est ouvert ou fermé et précise
 </button>
 ```
 
-![Domaine « Défense pénale » sur mobile, déplié avec la touche Entrée : le texte complet s'affiche](images/apres-lire-plus-clavier.jpg)
+![Domaine « Défense pénale » sur mobile, déplié avec la touche Entrée : le texte complet s'affiche](apres-lire-plus-clavier.jpg)
 
 ### Un texte blanc trop peu contrasté sur la photo d'accueil
 
@@ -97,7 +97,7 @@ ordinateur comme sur mobile, sans changer la photo.
 
 | Avant | Après |
 |---|---|
-| ![Page d'accueil sur mobile, avant : texte blanc « Emily Comyn, avocat à La Garde et Toulon » sur une photo de balance de la justice, voile léger](images/avant-accueil.jpg) | ![Page d'accueil sur mobile, après : même composition, photo plus sombre derrière le texte blanc](images/apres-accueil.jpg) |
+| ![Page d'accueil sur mobile, avant : texte blanc « Emily Comyn, avocat à La Garde et Toulon » sur une photo de balance de la justice, voile léger](avant-accueil.jpg) | ![Page d'accueil sur mobile, après : même composition, photo plus sombre derrière le texte blanc](apres-accueil.jpg) |
 
 ### Un formulaire de contact à compléter
 
@@ -113,7 +113,7 @@ Le formulaire était déjà bien étiqueté, mais plusieurs détails manquaient 
 - le message de confirmation après envoi n'était pas annoncé aux lecteurs
   d'écran.
 
-![Section « Contact et Accès » après correction : le formulaire « Première consultation offerte » commence par la phrase « Les champs marqués d'un astérisque (*) sont obligatoires », et chaque champ a un contour gris visible sur le fond beige](images/apres-formulaire.jpg)
+![Section « Contact et Accès » après correction : le formulaire « Première consultation offerte » commence par la phrase « Les champs marqués d'un astérisque (*) sont obligatoires », et chaque champ a un contour gris visible sur le fond beige](apres-formulaire.jpg)
 
 ### Un focus clavier pas toujours visible
 
@@ -130,7 +130,7 @@ textarea:focus-visible, select:focus-visible, [tabindex]:focus-visible {
 }
 ```
 
-![Champ « Téléphone » du formulaire avec le focus clavier : anneau blanc et foncé autour du champ](images/apres-focus-clavier.jpg)
+![Champ « Téléphone » du formulaire avec le focus clavier : anneau blanc et foncé autour du champ](apres-focus-clavier.jpg)
 
 ### Des détails de structure et de code
 
@@ -167,19 +167,19 @@ conformité affiché dans le lien lui-même, comme le prévoit le RGAA.
 
 | Avant | Après |
 |---|---|
-| ![Pied de page avant : « Accessibilité : le site a été conçu avec soin. »](images/avant-pied-de-page.jpg) | ![Pied de page après : « Accessibilité : totalement conforme »](images/apres-pied-de-page.jpg) |
+| ![Pied de page avant : « Accessibilité : le site a été conçu avec soin. »](avant-pied-de-page.jpg) | ![Pied de page après : « Accessibilité : totalement conforme »](apres-pied-de-page.jpg) |
 
 La page suit le modèle officiel : état de conformité, résultats des tests,
 contenus non soumis à l'obligation, méthode, contact et voies de recours.
 
-![Page « Déclaration d'accessibilité » : titre, engagement de Maître Comyn, section « État de conformité » indiquant « totalement conforme »](images/apres-declaration.jpg)
+![Page « Déclaration d'accessibilité » : titre, engagement de Maître Comyn, section « État de conformité » indiquant « totalement conforme »](apres-declaration.jpg)
 
 La section des mentions légales a été réécrite pour renvoyer vers cette
 déclaration, au lieu d'un texte qui ne pouvait pas être vérifié.
 
 | Avant | Après |
 |---|---|
-| ![Mentions légales avant : section « ACCESIBILITÉ » évoquant un score élevé obtenu avec un outil d'analyse automatique](images/avant-mentions-legales.jpg) | ![Mentions légales après : section « ACCESSIBILITÉ » indiquant que le site est totalement conforme au RGAA 4.1.2, avec un lien vers la déclaration](images/apres-mentions-legales.jpg) |
+| ![Mentions légales avant : section « ACCESIBILITÉ » évoquant un score élevé obtenu avec un outil d'analyse automatique](avant-mentions-legales.jpg) | ![Mentions légales après : section « ACCESSIBILITÉ » indiquant que le site est totalement conforme au RGAA 4.1.2, avec un lien vers la déclaration](apres-mentions-legales.jpg) |
 
 ## Limites de l'évaluation
 
